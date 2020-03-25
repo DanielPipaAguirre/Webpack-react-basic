@@ -1,0 +1,9 @@
+body {
+    background: rgb(17, 100, 255);
+    font-family: fantasy;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
